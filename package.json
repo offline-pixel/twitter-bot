@@ -1,0 +1,17 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "This is a twitter bot written in nodejs and developer can start using this script for projects like data mining as a raw bolierplate",
+  "keywords": ["twitter", "bot", "nodejs", "data", "mining", "github", "project"],
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11",
+    "dotenv": "^8.2.0"
+  }
+}
